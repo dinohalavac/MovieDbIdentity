@@ -1,0 +1,14 @@
+@page
+@model LoginModel
+<h3>Login</h3>
+<form method="post">
+    <label>Username:</label>
+    <input asp-for="Input.Username" />
+    <label>Password:</label>
+    <input asp-for="Input.Password" type="password" />
+    <button type="submit">Login</button>
+</form>
+@if (Model.ErrorMessage != null)
+{
+    <p style="color:red;">@Model.ErrorMessage</p>
+}
