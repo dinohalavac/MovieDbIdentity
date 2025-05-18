@@ -1,7 +1,3 @@
-using Duende.IdentityServer;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
-using MyIdentityServerWithUI;
 using Duende.IdentityServer.Configuration;
 var builder = WebApplication.CreateBuilder(args);
 

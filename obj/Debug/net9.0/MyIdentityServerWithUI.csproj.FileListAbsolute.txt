@@ -96,12 +96,6 @@
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets.build.json
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets.development.json
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets.build.endpoints.json
-/Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets/msbuild.MyIdentityServerWithUI.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets/msbuild.MyIdentityServerWithUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-/Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets/msbuild.build.MyIdentityServerWithUI.props
-/Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.MyIdentityServerWithUI.props
-/Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.MyIdentityServerWithUI.props
-/Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets.pack.json
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/MyIdenti.CD35244C.Up2Date
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/MyIdentityServerWithUI.dll
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/refint/MyIdentityServerWithUI.dll
@@ -109,3 +103,5 @@
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/MyIdentityServerWithUI.genruntimeconfig.cache
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/ref/MyIdentityServerWithUI.dll
 /Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/bin/Debug/net9.0/keys/is-signing-key-5C3F2822DE7B0A75B1A94FC5C009AC16.json
+/Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/MyIdentityServerWithUI.sourcelink.json
+/Users/dinohalavac/Documents/MovieDb/IdentityServerWithUI/MyIdentityServerWithUI/obj/Debug/net9.0/staticwebassets.build.json.cache
